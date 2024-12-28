@@ -38,4 +38,5 @@ Execute custom commands like merge, size, Enc, Dec, AdvEnc, and AdvDec as shown 
 - **Command History**: Keep track of executed commands for convenience.
 # Demo
 ![image](https://github.com/user-attachments/assets/68ef3bfb-eea4-4f3f-bf26-b8eaffaf91d3)
+
 The screenshot above showcases the key functionalities of our shell in action.
