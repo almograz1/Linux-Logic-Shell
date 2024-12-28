@@ -37,6 +37,6 @@ Execute custom commands like merge, size, Enc, Dec, AdvEnc, and AdvDec as shown 
 - **Advanced Encryption/Decryption**: Enhance security with advanced methods for encrypting and decrypting files.
 - **Command History**: Keep track of executed commands for convenience.
 # Demo
-![image](https://github.com/user-attachments/assets/68ef3bfb-eea4-4f3f-bf26-b8eaffaf91d3)
+![Untitled](https://github.com/user-attachments/assets/868555df-c15c-4a67-9b6f-29f716d2f58f)
 
 The screenshot above showcases the key functionalities of our shell in action.
