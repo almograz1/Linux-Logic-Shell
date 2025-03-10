@@ -1,7 +1,5 @@
 # Linux Logic Shell
 
-![Shell Demo](https://github.com/yourusername/linux-logic-shell/blob/main/path/to/image.png)
-
 ## 📚 Key Capabilities and Highlights:
 
 - **Process Management**: Our shell effectively handles multiple processes, allowing for concurrent execution and robust process control.
@@ -37,6 +35,6 @@ Execute custom commands like merge, size, Enc, Dec, AdvEnc, and AdvDec as shown 
 - **Advanced Encryption/Decryption**: Enhance security with advanced methods for encrypting and decrypting files.
 - **Command History**: Keep track of executed commands for convenience.
 # Demo
-[View the demo on Vimeo](https://vimeo.com/1064476327)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0u6kqzsYEis?si=CA1X_rgYABZQVTEf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 The screenshot above showcases the key functionalities of our shell in action.
