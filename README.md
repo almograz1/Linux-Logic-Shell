@@ -38,4 +38,4 @@ Execute custom commands like merge, size, Enc, Dec, AdvEnc, and AdvDec as shown 
 
 [![Watch the video](https://img.youtube.com/vi/0u6kqzsYEis/0.jpg)](https://www.youtube.com/watch?v=0u6kqzsYEis)
 
-The video above showcases the key functionalities of my shell in action.
+The video above showcases the key functionalities of my shell in action!
